@@ -44,6 +44,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati-90&" alt="swati-90" /></p>
 
+<p> <b> Drop a star if you think I am on the right path </b> </p>
+
 <!--
 **Swati-90/Swati-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
