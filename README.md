@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 About me ... I am an exprienced Operations Manager seeking transition into Analytics Domain.
+- 💬 About me ... I am an exprienced BFS Operations Manager seeking transition into Analytics Domain.
 
 - 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Natural Langugae Processing and Neural Network
