@@ -6,14 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-90" alt="swati-90" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
-
 - 🌱 I’m currently learning **Natural Language Processing and Neural Network**
-
 - 👯 I’m looking to collaborate on **Machine Learning projects**
-
 - 🤝 I’m looking for help with **Time Series and Neural Network**
-
 - 📫 How to reach me **swati.rustagi90@gmail.com**
+- 🤔 I’m looking for help with ... Time Series and Neural Network
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
