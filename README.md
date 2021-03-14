@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Swati Rustagi</h2>
-<h3 align="left">I am a passionate experienced BFS Operations Manager who is currently seeking transition into Analytics Domain 💻📚🧳️🌐🇮🇳</h3>
+<h3 align="left">I am a passionate experienced BFS Operations Manager who is currently seeking transition into Machine Learning and Data Analytics Domain 💻📚🧳️🌐🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-90&label=Profile%20views&color=0e75b6&style=flat" alt="swati-90" /> </p>
 
