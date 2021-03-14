@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 🤝 I’m looking for help with **Time Series and Neural Network**
 - 📫 How to reach me **swati.rustagi90@gmail.com**
+- 💻 All of my projects are available at https://github.com/Swati-90 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
