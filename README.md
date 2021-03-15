@@ -24,15 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a>
- <a href="https://www.r-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="python" width="25" height="25"/> </a> </p>
- 
-<p align="left">
- <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a>
- <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a
-  <a href="http://pandas.pydata.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="25" height="25"/> </a>
- <a href="http://www.numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" width="25" height="25"/> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="25" height="25"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/> </a> <a href="https://www.r-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="python" width="25" height="25"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="25" height="25"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="25" height="25"/> </a <a href="http://pandas.pydata.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="25" height="25"/> </a> <a href="http://www.numpy.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/288276?s=200&v=4" alt="numpy" width="25" height="25"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="25" height="25"/> </a>
 <a href="http://seaborn.pydata.org" target="_blank"> <img src=https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="seaborn" width="25" height="25"/> </a> </p>
 
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="25" height="25"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="25" height="25"/> </a> </p>
