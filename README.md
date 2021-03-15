@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/swati-rustagi-896a31118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/swati-rustagi-896a31118" height="25" width="25" /></a>
 <a href="https://kaggle.com/swatirustagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/swatirustagi" height="25" width="25" /></a>
 <a href="https://instagram.com/thatsme_himani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/thatsme_himani" height="25" width="25" /></a>
-<a href="mailto:swati.rustagi90@gmail.com"> <img src ="https://camo.githubusercontent.com/5cdb1127977f28c22fa95b17ac59aa8f9e728f78ea5a617bff804cfb23d7a4e6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31322e322f69636f6e732f676d61696c2e737667" width ="25" height ="25"/> </a>
+<a href="mailto:swati.rustagi90@gmail.com"> <img align="center" src ="https://camo.githubusercontent.com/5cdb1127977f28c22fa95b17ac59aa8f9e728f78ea5a617bff804cfb23d7a4e6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31322e322f69636f6e732f676d61696c2e737667" width ="25" height ="25"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
