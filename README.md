@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/swati-rustagi-896a31118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/swati-rustagi-896a31118" height="25" width="25" /></a>
 <a href="https://kaggle.com/swatirustagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/swatirustagi" height="25" width="25" /></a>
 <a href="https://instagram.com/thatsme_himani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/thatsme_himani" height="25" width="25" /></a>
-<a href="mailto:swati.rustagi90@gmail.com"> 📧 </a>
+<a href="mailto:swati.rustagi90@gmail.com"> <img src ="https://www.google.com/search?q=gmail+symbol+images&tbm=isch&chips=q:gmail+symbol,g_1:logo:AZXDijh4CwU%3D&hl=en&sa=X&ved=2ahUKEwjwz5jt1bHvAhUt1HMBHfyuCosQ4lYoAXoECAEQGg&biw=1519&bih=722#imgrc=OC2RtTfn-XZmCM" width ="25" height ="25"</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
