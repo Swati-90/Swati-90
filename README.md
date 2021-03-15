@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-90" alt="swati-90" /></a> </p>
 
 - 📚 Currently pursuing PGD - Data Science from IMS Proschool
-- 🎓 Completed MBA(Information System)from Sikkim Manipal Univeristy!
+- 🎓 Completed MBA(Information System) from Sikkim Manipal Univeristy!
 - 🔭 I’m currently working on **Machine Learning and Data Analysis techniques**
 - 🌱 I’m currently learning **Natural Language Processing and Neural Network**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
