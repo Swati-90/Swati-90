@@ -4,13 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-90&label=Profile%20views&color=0e75b6&style=flat" alt="swati-90" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati-90" alt="swati-90" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning**
+- 📚 Currently pursuing PGD - Data Science from IMS Proschool
+- 🎓 Completed MBA(Information System)from Sikkim Manipal Univeristy!
+- 🔭 I’m currently working on **Machine Learning and Data Analysis techniques**
 - 🌱 I’m currently learning **Natural Language Processing and Neural Network**
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 - 🤝 I’m looking for help with **Time Series and Neural Network**
+- 🕵️ Eagerly looking for ML | Data Science | Business Analyst Internship/Job opportunities 
+- 🎯 2021 Goals: Learn and Contribute more towards Data Science Community
 - 📫 How to reach me **swati.rustagi90@gmail.com**
-- 💻 All of my projects are available at https://github.com/Swati-90 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
