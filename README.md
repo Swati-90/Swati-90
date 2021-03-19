@@ -13,6 +13,11 @@
 - 🤝 I’m looking for help with **Time Series and Neural Network**
 - 🕵️ Eagerly looking for ML | Data Science | Business Analyst Internship/Job opportunities 
 - 🎯 2021 Goals: Learn and Contribute more towards Data Science Community
+- <div class="columns download">
+          <p>
+             <a href="images/Portfolio.pdf" class="button"><i class="fa fa-download"></i>Download CV</a>
+          </p>
+       </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
